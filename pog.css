@@ -1,0 +1,75 @@
+	* {
+		margin: 0;
+		padding: 0;
+	}
+	body{
+	background-color: grey;
+}
+	.navbar {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		height: 70px;
+	}
+	.navbar li {
+		cursor: pointer;
+	}
+
+	.nav-list li {
+		list-style: none;
+		padding: 26px 30px;
+	}
+
+	.nav-list li a{
+		color: white;
+	}
+
+	.nav-list li a:hover {
+		color: purple
+	}
+
+	#search {
+		padding: 5px;
+		font-size: 17px;
+		border: 2px solid grey;
+		border-radius: 9px;
+	}
+
+	.firstsection {
+		background-color: darkgray;
+		height: 400px;
+	}
+
+	.zielone-pudelko {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		color: black;
+		max-width: 80%;
+		margin: auto;
+		height: 80%;
+	}
+
+	.przycisk {
+		padding: 8px 12px;
+		margin: 7px 0;
+		border: 2px solid white;
+		border-radius: 8px;
+		background: none;
+		color: white;
+		cursor: pointer;
+	}
+img {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: auto
+}
+.tekst-pod-zdjeciem{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	margin: auto
+	
+
+}

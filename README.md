@@ -1,2 +1,2 @@
 # Moje
-YES....
+Mam nadzieje ze strona bedzie sie podobala
